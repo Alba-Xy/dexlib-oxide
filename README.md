@@ -3,7 +3,7 @@
 > 纯 Rust 实现的 DEX（Dalvik Executable）文件解析、修改、写入库。
 >
 > **作者：ALBA**
-
+  玩了几年dexlib2了 用rust重构一下 这款工具我自己的项目也在使用
 ---
 
 ## 简介
