@@ -1,0 +1,12 @@
+[package]
+name = "dexlib-oxide"
+version = "0.1.0"
+edition = "2024"
+authors = ["ALBA"]
+
+[dependencies]
+bitflags = "2.11.1"
+indexmap = "2.14.0"
+
+[dev-dependencies]
+zip = "0.6.6"
